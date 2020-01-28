@@ -1,6 +1,7 @@
 # BejeweledGame
 
 
+![image](http://earoplie.cba.pl/bejeweled-classic-jov8ua.php)
 
 
 Es un tipo de juego de tablero. Una matriz 8x8. 

@@ -6,7 +6,7 @@
 
 Es un tipo de juego de tablero. Una matriz 8x8. 
 
-El juego dispone de 7 gemas normales, que vienen siendo figuras geométricas: Octágono (roja), diamante (azul), circulo (gris), triangular (morada), hexágono (anaranjada), decágono (verde) y rombo (amarilla). A la hora de realizarlo, estas figuras podrían cambiar, pero la idea es que los colores se mantengan.
+El juego dispone de 7 gemas normales, que vienen siendo figuras: Octágono (roja), diamante (azul), circulo (gris), triangular (morada), hexágono (anaranjada), decágono (verde) y rombo (amarilla). A la hora de realizarlo, estas figuras podrían cambiar, pero la idea es que los colores se mantengan.
 
 El alcance del juego:
 - Será de un nivel y habrá puntaje para anunciar si ganaste o perdiste.

@@ -1,4 +1,4 @@
-# BejeweledGame
+# Bejeweled Game
 
 
 ![image](https://i.pinimg.com/originals/eb/30/07/eb3007fc6939bbc8631d7e70557c6f73.png)
